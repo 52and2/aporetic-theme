@@ -2,28 +2,28 @@
 
 @font-face {
     font-family: 'Aporetic';
-    src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont-Regular.ttf');
+    src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont80.ttf');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Aporetic';
-	src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont-Regular.ttf');
+	src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont80.ttf');
 	font-style: italic;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Aporetic';
-	src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont-Regular.ttf');
+	src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont80.ttf');
 	font-weight: bold;
 	font-style: normal;
 } 
 
 @font-face {
 	font-family: 'Aporetic';
-	src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont-Regular.ttf');
+	src: url('https://github.com/52and2/aporetic-theme/raw/refs/heads/main/src/font/AporeticSerifMonoNerdFont80.ttf');
 	font-weight: bold;
 	font-style: italic;
 }
