@@ -16,10 +16,13 @@
 
 /* SETTINGS */
 
-:root {
-    --word-spacing: 3px;       /* Word spacing */
-    --letter-spacing: 0.25px;  /* Letter Spacing */
-    --message-line-spacing: 2; /* Line spacing on messages */
+@font-face {
+  font-family: myFont; /* set name */
+  src: url(sansation_light.woff); /* url of the font */
+}
+
+p {
+  font-family: myFont; /* use font */
 }
 
 /* ----------------------------------------------------------------------- */
